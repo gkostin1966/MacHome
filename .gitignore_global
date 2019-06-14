@@ -1,0 +1,33 @@
+# Git Global Ignore File
+
+# Ingnore OS X Desktop Service Store files
+.DS_Store
+
+# Ignore Bash environment file
+.env
+
+# Ignore bundle install --path=./.bundle
+.bundle
+
+# Ignore Vagrant support files
+.vagrant
+
+# Ingore rbenv ruby version
+.ruby-version
+
+# Ignore all "*.log" files
+**/*.log
+
+# Ignore all "*.swp" files, vim swap files
+**/*.swp
+
+# Ingnore RubyMine files
+.idea
+
+# Ingnore byebug history
+.byebug_history
+
+# Ignore floobits ignore files
+.floo
+.flooignore
+
